@@ -1,5 +1,6 @@
 ._*
 *.bundle
+*.psd
 
 .DS_Store
 Thumbs.db
